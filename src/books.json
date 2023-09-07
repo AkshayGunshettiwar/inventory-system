@@ -1,0 +1,51 @@
+[
+    {
+      "id":1,
+      "title": "HTML5, JS and Jquery",
+      "author": "INDRAJIT SINGH",
+      "year": 2020,
+      "image": "jquery.jfif",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s..."
+    },
+    {
+      "id":2,
+      "title": "Eloquent Javascript",
+      "author": "MARJIN HAVERBEKE",
+      "year": 2021,
+      "image": "js.jfif",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s..."
+    },
+    {
+      "id":3,
+      "title": "HTML & CSS Quickstart",
+      "author": "DAVID DUROCHERE",
+      "year": 20199,
+      "image": "html.jpg",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s..."
+    },
+    {
+      "id":4,
+      "title": "HTML5, JS and Jquery",
+      "author": "INDRAJIT SINGH",
+      "year": 2020,
+      "image": "jquery.jfif",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s..."
+    },
+    {
+      "id":5,
+      "title": "Eloquent Javascript",
+      "author": "MARJIN HAVERBEKE",
+      "year": 2021,
+      "image": "js.jfif",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s..."
+    },
+    {
+      "id":6,
+      "title": "HTML & CSS Quickstart",
+      "author": "DAVID DUROCHERE",
+      "year": 2019,
+      "image": "html.jpg",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s..."
+    }
+  ]
+  
